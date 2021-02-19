@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/bakery/static/css/main.8af5835c.chunk.css",
+    "main.js": "/bakery/static/js/main.e88c28bc.chunk.js",
+    "main.js.map": "/bakery/static/js/main.e88c28bc.chunk.js.map",
+    "runtime-main.js": "/bakery/static/js/runtime-main.724e87d9.js",
+    "runtime-main.js.map": "/bakery/static/js/runtime-main.724e87d9.js.map",
+    "static/js/2.b64acd2b.chunk.js": "/bakery/static/js/2.b64acd2b.chunk.js",
+    "static/js/2.b64acd2b.chunk.js.map": "/bakery/static/js/2.b64acd2b.chunk.js.map",
+    "static/js/3.ba3f0e47.chunk.js": "/bakery/static/js/3.ba3f0e47.chunk.js",
+    "static/js/3.ba3f0e47.chunk.js.map": "/bakery/static/js/3.ba3f0e47.chunk.js.map",
+    "index.html": "/bakery/index.html",
+    "static/css/main.8af5835c.chunk.css.map": "/bakery/static/css/main.8af5835c.chunk.css.map",
+    "static/js/2.b64acd2b.chunk.js.LICENSE.txt": "/bakery/static/js/2.b64acd2b.chunk.js.LICENSE.txt",
+    "static/media/introduce.css": "/bakery/static/media/white.59ad5629.svg",
+    "static/media/hover.css": "/bakery/static/media/9.931cb620.jpg",
+    "static/media/menu.css": "/bakery/static/media/vanillas.0ff07023.jpg",
+    "static/media/specials.css": "/bakery/static/media/specialclover.05fc592b.jpg",
+    "static/media/explanation.css": "/bakery/static/media/mixing.c6e650c2.jpg",
+    "static/media/the-logo.787681cb.svg": "/bakery/static/media/the-logo.787681cb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.724e87d9.js",
+    "static/js/2.b64acd2b.chunk.js",
+    "static/css/main.8af5835c.chunk.css",
+    "static/js/main.e88c28bc.chunk.js"
+  ]
+}
